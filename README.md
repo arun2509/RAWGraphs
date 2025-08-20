@@ -1,3 +1,4 @@
+<img width="502" height="502" alt="chart" src="https://github.com/user-attachments/assets/f7af82f4-b4d1-4f50-b0ec-a26bb77bd1d3" />
 
 # RAWGraphs Beeswarm Plot: Employee Salary Distribution
 
